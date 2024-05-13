@@ -17,7 +17,9 @@ class ChatAreaVM : ViewModel(){
     private val genAI by lazy {
         GenerativeModel(
             modelName = "gemini-pro",
-            apiKey = "AIzaSyD29eS1HsXss64HQWVP9vgmUQTjsATvUqA"
+            apiKey = " 
+            // API KEY
+            "
 
 
         )
